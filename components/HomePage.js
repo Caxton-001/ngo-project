@@ -85,6 +85,15 @@ export class HomePage extends HTMLElement {
                                 <button class="btn submit-btn watch-video-btn">Watch video</button>
                             </div>
                         </div>
+                        <div class="banner-content">
+                            <h3>Your Summary here</h3>
+                            <p>Find your summary,sales,credits and purchases.</p>
+                            <div class="banner-content-ctas">
+                                <button class="btn submit-btn summary-btn">Summary</button>
+                                <button class="btn submit-btn sales-btn">Sales</button>
+                                <button class="btn submit-btn credits-btn">Credits</button>
+                                <button class="btn submit-btn purchases-btn">Purchases</button>
+
                     </div>
                 </div>
 

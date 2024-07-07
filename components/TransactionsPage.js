@@ -32,6 +32,7 @@ export class TransactionsPage extends HTMLElement {
                             <div class="transaction-categories-header">
                                 <span class="categories-header-label categories-header-left" data-target="payments-section">Sales</span>
                                 <span class="categories-header-label categories-header-right" data-target="recharges-section">Purchases</span>
+                                <<span class="categories-header-label categories-header-right" data-target="recharges-section">Credits</span>
                             </div>
                             <div class="transaction-categories-content">
                                 <div class="transaction-section d-block" id="payments-section">
